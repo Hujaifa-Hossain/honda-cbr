@@ -1,0 +1,37 @@
+.hero-section{
+  color: #fff;
+  background: #264653;
+}
+
+.heading{
+  font-size: 48px;
+}
+
+.hero-section .user p{
+  font-size: 16px;
+}
+
+.small-p{
+  font-size: 14px;
+}
+
+.honda-btn{
+  color: #fff;
+  background-color: #E76F51;
+  padding: 10px 25px;
+  border: 0;
+  border-radius: 5px;
+}
+
+.orange-color{
+  color: #E76F51;
+}
+
+.modal-dialog{
+  color: #000;
+}
+
+.user img{
+  height: 149px;
+  width: 149px;
+}
