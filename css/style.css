@@ -3,6 +3,10 @@
   background: #264653;
 }
 
+.honda-bg{
+  background: #264653;
+}
+
 .heading{
   font-size: 48px;
 }
@@ -27,7 +31,7 @@
   color: #E76F51;
 }
 
-.modal-dialog{
+.black-text{
   color: #000;
 }
 
