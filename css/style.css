@@ -40,6 +40,10 @@
   width: 149px;
 }
 
+.img-grayscle{
+  filter: grayscale(100%);
+}
+
 @media only screen and (max-width:688px) {
   .heading{
     font-size: 36px;
